@@ -1,2 +1,4 @@
 # ShamirSecretAlgorithm
+ JUAN JOSE MARTINEZ CALLE
+ 201729865
  MSIN 4101
